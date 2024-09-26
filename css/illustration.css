@@ -1,0 +1,114 @@
+body {
+    background: #6d828cff;
+}
+/* 0. INDICES */
+#indices {
+    display: none;
+}
+/* 1. HOUBLON */
+.gousses {
+    display: none;
+}
+.led-houblon {
+    fill:#ff0000;
+}
+.btn1 {
+    cursor: pointer;
+}
+/* 2. MIXER */
+.gouttes {
+    display: none;
+}
+.levier {
+    cursor: pointer;
+}
+/* 3. VAPEUR */
+.btn3 {
+    cursor: pointer;
+}
+.fu1 {
+    fill: red;
+    /* transform: scale(2); */
+}
+.led-generateur1, .led-generateur2, .led-generateur3 {
+    fill:#eaa33f;
+}
+
+#rect1827-4-3
+{
+    transform: translate(50px,7px);
+
+}
+#layer5{
+    display: none;
+}
+footer {
+    margin-top: 30px;
+}
+#bouton-indice{
+    background-color: #e34a28;
+    color: white;
+}
+
+.valve-generateur{
+    cursor: pointer;
+}
+#path4628-1{
+    cursor: pointer;
+}
+.levier3{
+    cursor: pointer;
+}
+.levier2{
+    cursor: pointer;
+}
+#rect1827-4-3{
+    cursor: pointer;
+}
+#layer78{
+    cursor: pointer;
+}
+#rect2621-1-6 {
+    cursor: pointer;
+}
+
+#layer56{
+    opacity: 0.1;
+    display: none;
+}
+#layer58{
+    opacity: 0.1;
+    display: none;
+}
+/*chope*/
+#layer57{ 
+    opacity: 0;
+} 
+/*verre*/
+
+/*biere*/
+#rect4438-4{
+    opacity: 0;
+
+}
+/*mousse*/
+#path4278-3{
+    opacity: 0;
+}
+
+
+
+
+
+#layer59{
+    display: none;
+}
+#rect4419{
+    display: none;
+}
+#rect4419-6{
+    display: none;
+}
+/* #group-chopes{
+    opacity: 0.1;
+} */
