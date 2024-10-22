@@ -2,6 +2,8 @@
 
 Ce projet est une application interactive qui utilise jQuery et GSAP pour animer divers éléments graphiques. L'application comporte plusieurs fonctions qui représentent des actions liées à la production de bière, chacune étant déclenchée par un clic sur des éléments de l'interface utilisateur. Le score augmente chaque fois qu'une action est effectuée, et une vérification est effectuée pour voir si le score atteint un seuil particulier.
 
+![Print]([/image/sample.webp](https://github.com/geoffrey-canivet/Interactive-Touch-Animations-with-GSAP/blob/main/print.png) "This is a sample image.")
+
 ## Fonctionnalités
 
 1. **Gestion du Score**: 
