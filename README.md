@@ -25,7 +25,7 @@ const btnHoublon = () => {
     gousses.style.display = "block";
     const ho1 = gsap.timeline({repeat: -1});
     ho1.fromTo('.ho1',{y:-10},{y:20,duration:1,repeat:-1, ease:Linear.easeNone});
-    // Autres animations...
+
     score++;
     verif();
 }
